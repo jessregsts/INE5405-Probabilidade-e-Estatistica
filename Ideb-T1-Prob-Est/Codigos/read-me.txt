@@ -1,0 +1,4 @@
+Para:
+medidasDeResumo.py
+tabelaFrequencia.py
+utilizar br-inep-ideb-brasil-versao-sem-total.csv como caminho.
