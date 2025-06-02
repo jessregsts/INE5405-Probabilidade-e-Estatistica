@@ -1,0 +1,5 @@
+### READ ME ###
+
+Para os códigos main-h1.py (Hipótese 1), main-h2.py (Hipótese 2) e main-h3.py (Hipótese 3) utilizar o arquivo br_inep_ideb_brasil.csv (encontra-se na pasta Base de Dados) como caminho.
+
+Para o arquivo media-e-ic (Medias e Intervalos de Confiança) utilizar o arquivo br-inep-ideb-brasil-versao-sem-total.csv (encontra-se na pasta Base de Dados) como caminho.
